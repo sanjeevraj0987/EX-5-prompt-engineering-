@@ -1,7 +1,7 @@
 # EX-5-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
 ```
-Name: Ramya R
-Reg No: 212223230169
+Name: Sanjeev RajT
+Reg No: 212222040148
 ```
 Experiment:
 Test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. 
